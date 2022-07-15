@@ -4,6 +4,5 @@ A small project to add smart fonctionnalities to an existing residential interco
 Compatible with HomeBridge and HomeAssistant
 
 Prerequisites : 
-1 ESP32
-Time
-Effort
+- 1 ESP32
+- A lot of time
